@@ -1,8 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-  - name: Nova Coin Security Policy
-    url: https://github.com/novacoin/novacoin/blob/master/SECURITY.md
-    about: View security policy
-  - name: Nova Coin Developers
-    url: https://novacoin.example
-    about: Nova Coin homepage
